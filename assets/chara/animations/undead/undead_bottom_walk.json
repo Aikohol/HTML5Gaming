@@ -1,0 +1,245 @@
+{
+	"textures": [
+		{
+			"image": "undead_bottom_walk.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 34,
+				"h": 463
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "undead_walk-18.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 16,
+						"y": 14,
+						"w": 32,
+						"h": 49
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 32,
+						"h": 49
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "undead_walk-19.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 16,
+						"y": 14,
+						"w": 32,
+						"h": 49
+					},
+					"frame": {
+						"x": 1,
+						"y": 52,
+						"w": 32,
+						"h": 49
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "undead_walk-20.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 16,
+						"y": 14,
+						"w": 32,
+						"h": 50
+					},
+					"frame": {
+						"x": 1,
+						"y": 103,
+						"w": 32,
+						"h": 50
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "undead_walk-21.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 16,
+						"y": 15,
+						"w": 32,
+						"h": 49
+					},
+					"frame": {
+						"x": 1,
+						"y": 155,
+						"w": 32,
+						"h": 49
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "undead_walk-22.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 16,
+						"y": 14,
+						"w": 32,
+						"h": 50
+					},
+					"frame": {
+						"x": 1,
+						"y": 206,
+						"w": 32,
+						"h": 50
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "undead_walk-23.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 16,
+						"y": 14,
+						"w": 32,
+						"h": 49
+					},
+					"frame": {
+						"x": 1,
+						"y": 258,
+						"w": 32,
+						"h": 49
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "undead_walk-24.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 16,
+						"y": 14,
+						"w": 32,
+						"h": 50
+					},
+					"frame": {
+						"x": 1,
+						"y": 309,
+						"w": 32,
+						"h": 50
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "undead_walk-25.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 16,
+						"y": 15,
+						"w": 32,
+						"h": 49
+					},
+					"frame": {
+						"x": 1,
+						"y": 361,
+						"w": 32,
+						"h": 49
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "undead_walk-26.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 16,
+						"y": 14,
+						"w": 32,
+						"h": 50
+					},
+					"frame": {
+						"x": 1,
+						"y": 412,
+						"w": 32,
+						"h": 50
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:f387f91fc04181d472701087063d0a92:1fcd6caeaf0a827ada5b423096f98eb1:77ab74c99e0d6a416f29ae4036265cff$"
+	}
+}

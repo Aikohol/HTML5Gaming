@@ -1,0 +1,245 @@
+{
+	"textures": [
+		{
+			"image": "undead_left_walk.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 242,
+				"h": 51
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "undead_walk-9.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 22,
+						"y": 14,
+						"w": 22,
+						"h": 49
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 22,
+						"h": 49
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "undead_walk-10.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 15,
+						"w": 27,
+						"h": 48
+					},
+					"frame": {
+						"x": 25,
+						"y": 1,
+						"w": 27,
+						"h": 48
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "undead_walk-11.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 20,
+						"y": 14,
+						"w": 23,
+						"h": 48
+					},
+					"frame": {
+						"x": 54,
+						"y": 1,
+						"w": 23,
+						"h": 48
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "undead_walk-12.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 22,
+						"y": 14,
+						"w": 24,
+						"h": 48
+					},
+					"frame": {
+						"x": 79,
+						"y": 1,
+						"w": 24,
+						"h": 48
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "undead_walk-13.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 21,
+						"y": 14,
+						"w": 26,
+						"h": 49
+					},
+					"frame": {
+						"x": 105,
+						"y": 1,
+						"w": 26,
+						"h": 49
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "undead_walk-14.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 15,
+						"w": 30,
+						"h": 48
+					},
+					"frame": {
+						"x": 133,
+						"y": 1,
+						"w": 30,
+						"h": 48
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "undead_walk-15.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 22,
+						"y": 14,
+						"w": 25,
+						"h": 49
+					},
+					"frame": {
+						"x": 165,
+						"y": 1,
+						"w": 25,
+						"h": 49
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "undead_walk-16.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 22,
+						"y": 14,
+						"w": 24,
+						"h": 49
+					},
+					"frame": {
+						"x": 192,
+						"y": 1,
+						"w": 24,
+						"h": 49
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "undead_walk-17.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 22,
+						"y": 14,
+						"w": 23,
+						"h": 49
+					},
+					"frame": {
+						"x": 218,
+						"y": 1,
+						"w": 23,
+						"h": 49
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:fa7d6c46f2fb0e3a2e77dd908084e581:1d1db492a23f85b4d4e52378eddbf466:823023d13dc77d80d8c0c0bc6da07c04$"
+	}
+}
